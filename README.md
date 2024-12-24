@@ -9,7 +9,7 @@ link : [facebook](https://www.facebook.com/ryukodev).</br>
 npm install
 ```
 ```txt
-node ryuko/catalogs/ryukoa.js
+node index.js
 ```
 
 ## SOURCES
